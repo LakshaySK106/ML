@@ -1,1 +1,1 @@
-# K-Nearest Neighbor algorithm
+# Machine Learning Algorithms
